@@ -1,1 +1,0 @@
-TOKEN = '1676447692:AAGmXQJqsfbX11jpdKmrWDHqyqbTb4dBp7I' # Токен Бота
